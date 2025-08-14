@@ -4,13 +4,13 @@
 
 ---
 
-### 📌 Overview
+### Overview
 An interactive Tableau dashboard analyzing **passenger reviews for American Airlines**.  
 The dashboard provides a multi-dimensional view of customer sentiment across time, geography, and aircraft type, enabling quick insights into strengths and improvement areas.
 
 ---
 
-### 🛠 How It Was Built
+### How It Was Built
 - **Data Cleaning in Tableau**: Performed all cleaning and preparation directly in Tableau using built-in tools — handled nulls, standardized categories, and reformatted fields directly in Tableau
 - **Calculated Fields**:  
   - Created metrics such as *Average Ratings* for each service aspect (Cabin Staff Service, Entertainment, Food & Beverages, Seat Comfort, Ground Service, and Value for Money).
@@ -22,7 +22,7 @@ The dashboard provides a multi-dimensional view of customer sentiment across tim
 
 ---
 
-### 📊 Key Dashboard Features
+### Key Dashboard Features
 - **KPI Header** — Displays average ratings for each service dimension at a glance.
 - **Map View** — *Average Overall Rating by Country* to visualize regional performance.
 - **Trend Chart** — *Average Overall Rating by Month* showing sentiment changes over time.
@@ -40,7 +40,7 @@ From analyzing the available data:
 
 ---
 
-### 💼 Business Impact
+### Business Impact
 If presented to American Airlines leadership, this dashboard could:
 - Pinpoint **service areas needing immediate attention** (e.g., in-flight entertainment, perceived value for money).
 - Identify **routes or regions with lower satisfaction** for targeted service improvements.
@@ -51,11 +51,8 @@ If presented to American Airlines leadership, this dashboard could:
 ---
 
 ### 🖼 Preview
-[![American Airlines Reviews Dashboard Preview](images/american_airlines_reviews_dashboard.png)](https://public.tableau.com/app/profile/nishka.rastogi/viz/AmericanAirlinesDashboard/Dashboard1)  
-*Click the image or project title to open the live interactive dashboard on Tableau Public.*
+[![American Airlines Reviews Dashboard Preview]](https://public.tableau.com/app/profile/nishka.rastogi/viz/AmericanAirlinesDashboard/Dashboard1)  
+*Click the project title to open the live interactive dashboard on Tableau Public.*
 
 ---
 
-### 📂 Repository Contents
-- `images/american_airlines_reviews_dashboard.png` — Screenshot preview of the dashboard.
-- `README.md` — Project overview, features, technical details, and live link.
