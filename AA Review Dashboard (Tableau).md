@@ -31,7 +31,7 @@ The dashboard provides a multi-dimensional view of customer sentiment across tim
 
 ---
 
-### 🔍 Insights from the Data
+### Insights from the Data
 From analyzing the available data:
 - Overall rating sits at **~2.9**, indicating **below-average customer satisfaction**.
 - **Cabin Staff Service** scored relatively better (3.0) than **Entertainment** (1.0) or **Value for Money** (2.5).
@@ -51,7 +51,7 @@ If presented to American Airlines leadership, this dashboard could:
 ---
 
 ### 🖼 Preview
-[![American Airlines Reviews Dashboard Preview]](https://public.tableau.com/app/profile/nishka.rastogi/viz/AmericanAirlinesDashboard/Dashboard1)  
+[American Airlines Reviews Dashboard Preview](https://public.tableau.com/app/profile/nishka.rastogi/viz/AmericanAirlinesDashboard/Dashboard1)  
 *Click the project title to open the live interactive dashboard on Tableau Public.*
 
 ---
