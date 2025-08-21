@@ -50,7 +50,4 @@ This dashboard bridges that gap by turning raw call data into actionable insight
 ### Individual Agent Dashboard
 ![Agent Dashboard](./images/agent_dashboard.png)
 
----
-
-## 📁 Folder Structure
 
